@@ -8,8 +8,8 @@
 
 # Create a Jenkins Pipeline:
 
-Stage #0: Checkout the code from github
-Stage #1: Build Compile (mvn clean compile)
-Stage #2: Test the code (mvn test)
+- Stage #0: Checkout the code from github
+- Stage #1: Build Compile (mvn clean compile)
+- Stage #2: Test the code (mvn test)
 
 
